@@ -52,5 +52,27 @@ Cоздан интерфейс API на основе REST для проведе�
 
 <h2 align="center">GET</h2>
 
+GET request для получения списка пользователей:
+
+![image](https://user-images.githubusercontent.com/122821058/232859081-1b3d2c82-2121-4e19-b84c-6e6ffdca8f80.png)
 
 
+![image](https://user-images.githubusercontent.com/122821058/232859632-340b2a27-0dea-4fec-883b-91956abe244d.png)
+
+
+GET request для получения списка сообщений:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232860111-cb9c7766-430d-487d-8081-93e20a60bb69.png)
+
+
+![image](https://user-images.githubusercontent.com/122821058/232860317-eee7d1fe-f3cb-496e-9da2-b4c2227f95b3.png)
+
+
+GET request для проверки инициализации пользователя:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232860589-e5bb751d-8f74-4a87-aa67-9f928a74ca36.png)
+
+
+<h2 align="center">POST</h2>
