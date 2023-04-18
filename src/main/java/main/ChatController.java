@@ -18,8 +18,6 @@ import java.util.*;
 @RestController
 public class ChatController {
 
-    // аннотация autowired, чтобы репозиторий
-    // автоматичеки подключался к этому контроллеру
     @Autowired
     private UserRepository userRepository;
     @Autowired
@@ -83,7 +81,7 @@ public class ChatController {
     }
 
     @GetMapping("/user")
-    public HashMap<Integer, String> getUsersList() {
-        return  null;
+    public List<User> getUsersList() {
+        return userRepository.findAll();
     }
 }

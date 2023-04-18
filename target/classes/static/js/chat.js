@@ -15,7 +15,7 @@ $(function(){
     };
 
     let updateMessages = function(){
-        $('.messages-list').html('<i>Сообщений нет</i>');
+        $('.messages-list').html('<i></i>');
         $.get('/message', {}, function(response){
             for(i in response) {
                 let element = getMessageElement(response[i]);
