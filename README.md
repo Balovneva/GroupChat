@@ -76,3 +76,21 @@ GET request для проверки инициализации пользова�
 
 
 <h2 align="center">POST</h2>
+
+POST request для добавления пользователя:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232861359-7e04646c-c1b1-41ce-863c-5a7e6b184bdc.png)
+
+
+![image](https://user-images.githubusercontent.com/122821058/232861495-736818ca-47f8-414d-b4d4-1db6d21acd5b.png)
+
+
+
+POST request для добавления сообщения:
+
+
+![image](https://user-images.githubusercontent.com/122821058/232873878-59a23afd-643a-4ab6-b8bb-7fd3b1a0c6bf.png)
+
+
+![image](https://user-images.githubusercontent.com/122821058/232873949-20acd717-6faa-4d32-9daf-108610a7e47f.png)
