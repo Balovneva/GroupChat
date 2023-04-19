@@ -20,6 +20,10 @@ Cоздан интерфейс API на основе REST для проведе�
 Связь объектов в базе данных:
 
 
+![entityManagerFactory(EntityManagerFactoryBuilder, PersistenceManagedTypes)](https://user-images.githubusercontent.com/122821058/233125924-d09b1935-28c8-4e01-b8e8-a354e9555ca0.png)
+
+
+
 <h2 align="center">Интерфейс</h2>
 
 При переходе на стартовую страницу http://localhost:8080 нужно ввести имя пользователя:
