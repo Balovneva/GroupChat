@@ -20,7 +20,7 @@ Cоздан интерфейс API на основе REST для проведе�
 Связь объектов в базе данных:
 
 
-![entityManagerFactory(EntityManagerFactoryBuilder, PersistenceManagedTypes)](https://user-images.githubusercontent.com/122821058/233125924-d09b1935-28c8-4e01-b8e8-a354e9555ca0.png)
+![entityManagerFactory(EntityManagerFactoryBuilder, PersistenceManagedTypes)](https://user-images.githubusercontent.com/122821058/233285145-f615eed0-d17d-411f-b951-01022737daf4.png)
 
 
 
